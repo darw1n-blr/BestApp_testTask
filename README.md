@@ -12,12 +12,12 @@
 
 3.  Настройте переменные окружения. Создайте файл `.env` в корне проекта с содержимым:
 
-        POSTGRES_HOST=db
-        POSTGRES_PORT=5432
-        POSTGRES_USER=postgres
-        POSTGRES_PASSWORD=123
-        POSTGRES_DB=best-app-test-task
-        PORT=9000
+        POSTGRES_HOST=*ваши данные*
+        POSTGRES_PORT=*ваши данные*
+        POSTGRES_USER=*ваши данные*
+        POSTGRES_PASSWORD=*ваши данные*
+        POSTGRES_DB=*ваши данные*
+        PORT=*ваши данные*
 
 
 Запуск
